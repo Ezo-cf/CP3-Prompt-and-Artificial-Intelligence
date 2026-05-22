@@ -1,0 +1,92 @@
+[
+  {
+    "texto": "Meu notebook chegou com a tela trincada! Comprei há 3 dias e já veio com defeito.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["desculpe", "protocolo"]
+  },
+  {
+    "texto": "Qual o prazo de entrega para São Paulo?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["dias"]
+  },
+  {
+    "texto": "Quero devolver o celular que comprei, não gostei do modelo.",
+    "tipo_esperado": "devolucao",
+    "urgencia_esperada": "media",
+    "palavras_chave": []
+  },
+  {
+    "texto": "O atendente João foi incrível, me ajudou a resolver tudo muito rápido!",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["obrigado"]
+  },
+  {
+    "texto": "Seria legal se vocês tivessem um programa de fidelidade com cashback.",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": []
+  },
+  {
+    "texto": "Meu pedido estava previsto para ontem e ainda não chegou. Número: 98765.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": []
+  },
+  {
+    "texto": "O produto tem garantia de quanto tempo?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": []
+  },
+  {
+    "texto": "Comprei um fone de ouvido e ele para de funcionar após 30 minutos.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "media",
+    "palavras_chave": []
+  },
+  {
+    "texto": "Vocês aceitam pagamento via Pix?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": []
+  },
+  {
+    "texto": "Quero trocar o mouse que comprei por um modelo diferente.",
+    "tipo_esperado": "devolucao",
+    "urgencia_esperada": "media",
+    "palavras_chave": []
+  },
+  {
+    "texto": "O site de vocês é muito intuitivo e fácil de usar. Parabéns!",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": []
+  },
+  {
+    "texto": "Meu teclado mecânico chegou sem o cabo USB. Pedido 12345.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": []
+  },
+  {
+    "texto": "Como faço para rastrear meu pedido?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": []
+  },
+  {
+    "texto": "Poderiam adicionar mais opções de cor para o modelo de headset gamer?",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": []
+  },
+  {
+    "texto": "O produto veio diferente do que estava na foto do site. Quero meu dinheiro de volta.",
+    "tipo_esperado": "devolucao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": []
+  }
+]
